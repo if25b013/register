@@ -1,0 +1,14 @@
+{
+    "owner": {
+        "username": "if25b013",
+        "email": "if25b013@technikum-wien.at"
+    },
+    "records": {
+        "TXT": ["zoho-verification=zb75990532.zmverify.zoho.eu"],
+        "MX": [
+            "mx.zoho.com",
+            "mx2.zoho.com",
+            "mx3.zoho.com"
+        ]
+    }
+}
